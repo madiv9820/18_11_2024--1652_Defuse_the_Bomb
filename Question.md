@@ -1,7 +1,7 @@
 # [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb)
 
 __Type:__ Easy <br>
-__Topics:__ Array, Sliding_Window <br>
+__Topics:__ Array, Sliding Window <br>
 __Companies:__ Amazon
 <hr>
 
